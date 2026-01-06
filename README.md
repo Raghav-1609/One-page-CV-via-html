@@ -1,2 +1,30 @@
-# One-page-CV-via-html
-This project is a simple one-page CV created using basic HTML with inline styling. It presents personal details, skills, education, and experience in a clean, structured layout. The CV is centered on the page with a visible border, helping beginners understand HTML structure, formatting, and layout basics.
+# One Page CV (HTML)
+
+# Description
+This is a simple one-page CV created using HTML with inline CSS.  
+The project focuses on basic HTML structure, text formatting, spacing, and layout without using external CSS files or frameworks.
+
+It is ideal for beginners who want to practice:
+- HTML document structure
+- Headings and paragraphs
+- Lists and line breaks
+- Inline styling
+- Page centering and borders
+
+---
+
+# Technologies Used
+- HTML5
+  
+---
+
+## Features
+- Center-aligned CV layout
+- Visible black border around the page
+- Styled headings with color and underline
+- Compact address section using `<br>` tag
+- Skills, education, and experience listed using `<ul>` and `<li>`
+- Clean and readable structure
+
+---
+
